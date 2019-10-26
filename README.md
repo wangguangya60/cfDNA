@@ -12,3 +12,8 @@ https://qiubio.com/new/book/chapter-06/#%E7%AC%AC%E4%BA%94%E7%AB%A0-atac-seq%E6%
 
 ## Chromatin Structure Research Methods (MNase DNase ATAC)
 https://www.labome.com/method/Chromatin-Structure-Research-Methods.html
+
+## ilustrate WHY there is a gap in the coverage of TF binding site
+https://www.biostars.org/p/347703/
+
+
