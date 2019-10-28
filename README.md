@@ -9,8 +9,10 @@ ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/technical/reference/human_g1k_v37.fasta
 
 ## Tutorial
 https://qiubio.com/new/book/chapter-06/#%E7%AC%AC%E4%BA%94%E7%AB%A0-atac-seq%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90chapter-5-atac-seq-data-analysis
-### peak calling MACS
+
+### peak calling software
 https://github.com/taoliu/MACS
+https://sites.google.com/site/danposdoc/
 
 ### ATAC-seq peak calling
 https://yiweiniu.github.io/blog/2019/03/ATAC-seq-data-analysis-from-FASTQ-to-peaks/
