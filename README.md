@@ -10,6 +10,11 @@ ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/technical/reference/human_g1k_v37.fasta
 ## Tutorial
 https://qiubio.com/new/book/chapter-06/#%E7%AC%AC%E4%BA%94%E7%AB%A0-atac-seq%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90chapter-5-atac-seq-data-analysis
 
+## Signal detection/statistics
+1. Normalized coverage depth of each position
+2. WPS (Windowed Protection Score) . [script]{https://github.com/shendurelab/cfDNA/blob/master/extractReadStartsFromBAM2Wig.py}
+...
+
 ### peak calling software
 https://github.com/taoliu/MACS
 https://sites.google.com/site/danposdoc/
