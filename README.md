@@ -20,7 +20,8 @@ https://yiweiniu.github.io/blog/2019/03/ATAC-seq-data-analysis-from-FASTQ-to-pea
 * Image
 <img src="img/chromtain_access.jpg" width = "600" div align=left />
 
-## ilustrate WHY there is a gap in the coverage of TF binding site
+##ilustrate WHY there is a gap in the coverage of TF binding site
+
 * [link](https://www.biostars.org/p/347703/)
 <img src="img/TFBS_gap.png" width = "600" div align=left />
 
