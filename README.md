@@ -26,7 +26,7 @@ https://yiweiniu.github.io/blog/2019/03/ATAC-seq-data-analysis-from-FASTQ-to-pea
 https://www.labome.com/method/Chromatin-Structure-Research-Methods.html
 ![image](img/chromtain_access.jpg)
 ![image] <div align=right img width="600" src="img/chromtain_access.jpg"/>
-
+<img src="img/chromtain_access.jpg" width = "600" div align=left />
 
 ## ilustrate WHY there is a gap in the coverage of TF binding site
 https://www.biostars.org/p/347703/
