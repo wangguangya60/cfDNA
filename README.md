@@ -25,8 +25,7 @@ https://yiweiniu.github.io/blog/2019/03/ATAC-seq-data-analysis-from-FASTQ-to-pea
 ## Chromatin Structure Research Methods (MNase DNase ATAC)
 https://www.labome.com/method/Chromatin-Structure-Research-Methods.html
 ![image](img/chromtain_access.jpg)
-![image](img/chromtain_access.jpg | width=100)
-<img width="300" src="img/chromtain_access.jpg"/>
+<div align=right> ![image] <img width="600" src="img/chromtain_access.jpg"/>
 
 
 ## ilustrate WHY there is a gap in the coverage of TF binding site
