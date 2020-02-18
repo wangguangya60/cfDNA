@@ -1,3 +1,11 @@
+## Datasets
+Datasets that available for download, mostly in NCBI SRA
+* shendure lab
+  * **plasma DNA, 60 samples, PE65 & PE100 read**
+  * [Cell-free DNA Comprises an In Vivo Nucleosome Footprint that Informs Its Tissues-Of-Origin](doi: 10.1016/j.cell.2015.11.050)
+  * [SRA](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA291063)
+  * [Script](https://github.com/shendurelab/cfDNA)
+
 ## cfDNA
 Scripts and documents for circulating cell-free DNA data analysis
 
@@ -24,8 +32,6 @@ https://yiweiniu.github.io/blog/2019/03/ATAC-seq-data-analysis-from-FASTQ-to-pea
 
 ## Chromatin Structure Research Methods (MNase DNase ATAC)
 https://www.labome.com/method/Chromatin-Structure-Research-Methods.html
-![image](img/chromtain_access.jpg)
-![image] <div align=right img width="600" src="img/chromtain_access.jpg"/>
 <img src="img/chromtain_access.jpg" width = "600" div align=left />
 
 ## ilustrate WHY there is a gap in the coverage of TF binding site
