@@ -16,8 +16,8 @@ https://sites.google.com/site/danposdoc/
 https://yiweiniu.github.io/blog/2019/03/ATAC-seq-data-analysis-from-FASTQ-to-peaks/
 
 ## Chromatin Structure Research Methods (MNase DNase ATAC)
-* [link](https://www.labome.com/method/Chromatin-Structure-Research-Methods.html)
-* Image  
+[link](https://www.labome.com/method/Chromatin-Structure-Research-Methods.html)
+Image  
 <img src="img/chromtain_access.jpg" width = "400" div align=left />  
 
 
@@ -26,7 +26,7 @@ https://yiweiniu.github.io/blog/2019/03/ATAC-seq-data-analysis-from-FASTQ-to-pea
 <img src="img/TFBS_gap.png" width = "400" div align=left />  
 
 ## tools for gene expression
-* [GEPIA](http://gepia.cancer-pku.cn/detail.php?gene=DNASE1L3)
+[GEPIA](http://gepia.cancer-pku.cn/detail.php?gene=DNASE1L3)
 
 
 
