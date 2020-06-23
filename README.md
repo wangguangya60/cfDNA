@@ -23,7 +23,7 @@ https://yiweiniu.github.io/blog/2019/03/ATAC-seq-data-analysis-from-FASTQ-to-pea
 * [link](https://www.biostars.org/p/347703/)     
 <img src="img/TFBS_gap.png" width = "200" >  
 
-## tools for gene expression
+## Tools for gene expression
 * [GEPIA](http://gepia.cancer-pku.cn/detail.php?gene=DNASE1L3)
 
 
